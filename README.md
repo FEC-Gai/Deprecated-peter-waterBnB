@@ -1,5 +1,5 @@
 # [DEPRECATED] peter-waterBnB
-This is the deprecated repository.
+This is the deprecated repository from before the repository restructure.
 
 Check In + Reviews module for WaterBnB
 
